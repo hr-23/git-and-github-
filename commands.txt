@@ -7,6 +7,14 @@ git add (file name )
 git commit 
 
 
+
+git add . (to add all the files in the direcotry) (after we make changes to all the files)
+
+
+
+git log (see what changes you have made) 
+ls -a (to see the hidden files too)
+
 branching 
 
 branch feature 
