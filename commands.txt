@@ -1,0 +1,25 @@
+git init 
+git clone 
+git checkout (branch name) 
+git checkout main 
+git status 
+git add (file name )
+git commit 
+
+
+branching 
+
+branch feature 
+checkout feature 
+edit , test , add , commit 
+merge master 
+test 
+checkout master 
+merge feature 
+
+
+git clone 
+git fetch 
+git pull 
+
+to view the hideen files use ls -a 
