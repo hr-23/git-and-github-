@@ -10,6 +10,9 @@ git commit
 
 git add . (to add all the files in the direcotry) (after we make changes to all the files)
 
+// to commit with message use the below command 
+git commit -m "message"
+
 
 
 git log (see what changes you have made) 
@@ -24,6 +27,8 @@ merge master
 test 
 checkout master 
 merge feature 
+
+git diff ( to see all the changes we have made )
 
 
 git clone 
