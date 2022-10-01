@@ -36,3 +36,7 @@ git fetch
 git pull 
 
 to view the hideen files use ls -a 
+
+git push harsha <link>
+git push -u origin master
+
