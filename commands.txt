@@ -40,3 +40,6 @@ to view the hideen files use ls -a
 git push harsha <link>
 git push -u origin master
 
+
+git remote add origin <link>
+git push -u origin master
